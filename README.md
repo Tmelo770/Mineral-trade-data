@@ -1,1 +1,2 @@
 # Mineral-trade-data
+The minerals included in this study are drawn from the latest lists of critical minerals for the United States, the EU, and China  as well as trade data for each commodity’s tariff code provided by the UN Comtrade data spanning the years 2014 to 2023.  Certain ambiguous minerals were excluded, resulting in a final selection of 42 representative mineral commodities (detailed minerals and HS codes are listed in Supplementary Table S1).
